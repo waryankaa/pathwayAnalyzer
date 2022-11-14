@@ -1,0 +1,27 @@
+gs,desc,size,len,es,nes,pvalue,fdr,db
+hsa05012,Parkinson disease,97,70,0.69604,1.9347,<2.2e-16,<2.2e-16,Kegg
+hsa00190,Oxidative phosphorylation,91,64,0.68438,1.8945,<2.2e-16,<2.2e-16,Kegg
+hsa04932,Non-alcoholic fatty liver disease (NAFLD),122,75,0.65609,1.8494,<2.2e-16,<2.2e-16,Kegg
+hsa04260,Cardiac muscle contraction,38,23,0.70556,1.8468,<2.2e-16,<2.2e-16,Kegg
+hsa03010,Ribosome,131,102,0.62888,1.7867,<2.2e-16,<2.2e-16,Kegg
+hsa05016,Huntington disease,139,81,0.62496,1.7672,<2.2e-16,0.00016638,Kegg
+hsa05010,Alzheimer disease,122,66,0.62217,1.7427,<2.2e-16,0.00042783,Kegg
+hsa04714,Thermogenesis,165,90,0.59597,1.6983,<2.2e-16,0.0011231,Kegg
+hsa04723,Retrograde endocannabinoid signaling,80,42,0.61241,1.6776,<2.2e-16,0.0019966,Kegg
+hsa00020,Citrate cycle (TCA cycle),29,20,0.62232,1.5779,<2.2e-16,0.013776,Kegg
+hsa00640,Propanoate metabolism,26,13,0.62386,1.5711,0.0030457,0.014793,Kegg
+hsa04978,Mineral absorption,36,18,0.59161,1.534,0.001005,0.025373,Kegg
+hsa04610,Complement and coagulation cascades,24,6,-0.24305,-1.3113,0.11111,0.047187,Kegg
+hsa00630,Glyoxylate and dicarboxylate metabolism,25,10,0.54983,1.38,0.036327,0.22126,Kegg
+hsa04974,Protein digestion and absorption,36,11,0.5299,1.3723,0.017034,0.22827,Kegg
+hsa03050,Proteasome,41,28,0.52642,1.381,0.008008,0.23459,Kegg
+hsa04971,Gastric acid secretion,36,13,0.52192,1.349,0.023069,0.24468,Kegg
+hsa03320,PPAR signaling pathway,50,15,0.50539,1.3523,0.011,0.2468,Kegg
+hsa04973,Carbohydrate digestion and absorption,20,13,0.56276,1.3567,0.04893,0.24757,Kegg
+hsa05032,Morphine addiction,32,13,0.53214,1.3584,0.036072,0.25706,Kegg
+hsa03040,Spliceosome,127,62,0.47286,1.3321,0.001,0.2916,Kegg
+hsa03020,RNA polymerase,31,11,0.51851,1.3238,0.051205,0.29617,Kegg
+hsa04961,Endocrine and other factor-regulated calcium reabsorption,30,13,0.52064,1.3239,0.049246,0.31018,Kegg
+hsa01200,Carbon metabolism,94,48,0.47169,1.3142,0.003,0.32305,Kegg
+hsa00620,Pyruvate metabolism,32,12,0.50664,1.3057,0.057114,0.34386,Kegg
+hsa00380,Tryptophan metabolism,23,10,0.51527,1.2928,0.099598,0.36053,Kegg

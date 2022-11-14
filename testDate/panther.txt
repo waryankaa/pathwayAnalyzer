@@ -1,0 +1,28 @@
+/* Builder file */
+/* Date: 21 Oct 2022 */
+
+/* Build a table */
+
+/* Remove the table if it is already in the database, then create it from scratch. This is good for updating a table schema*/
+
+DROP TABLE geneTable;
+CREATE TABLE geneTable(
+gs VARCHAR NOT NULL PRIMARY KEY,
+desc VARCHAR,
+size VARCHAR,
+len VARCHAR,
+es VARCHAR,
+nes VARCHAR,
+pvalue VARCHAR,
+fdr VARCHAR
+db VARCHAR,
+);
+
+/* Import files */
+
+.separator ","
+
+/*data files */
+.import data/testData_panther.csv geneTable
+
+/* cat panther.txt | sqlite3 geneDataPanther.sqlite3  */

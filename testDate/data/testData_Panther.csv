@@ -1,0 +1,27 @@
+gs,desc,size,len,es,nes,pvalue,fdr,db
+P00003,Alzheimer disease-amyloid secretase pathway,39,6,-0.2004,-1.0438,<2.2e-16,0.34194,Panther
+P00042,Muscarinic acetylcholine receptor 1 and 3 signaling pathway,30,3,0.24266,0.61995,0.96382,0.97723,Panther
+P00035,Interferon-gamma signaling pathway,25,10,0.24725,0.62792,0.94854,0.99388,Panther
+P05912,Dopamine receptor mediated signaling pathway,34,13,0.50469,1.2938,0.045135,1,Panther
+P00027,Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway,43,13,0.49632,1.3126,0.047,1,Panther
+P00060,Ubiquitin proteasome pathway,42,25,0.47694,1.2669,0.082082,1,Panther
+P04374,5HT2 type receptor mediated signaling pathway,32,9,0.47294,1.2167,0.12525,1,Panther
+P00031,Inflammation mediated by chemokine and cytokine signaling pathway,102,40,0.40144,1.1239,0.162,1,Panther
+P00026,Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway,62,27,0.40875,1.1155,0.226,1,Panther
+P00029,Huntington disease,90,42,0.39349,1.097,0.244,1,Panther
+P00016,Cytoskeletal regulation by Rho GTPase,46,18,0.42024,1.1208,0.255,1,Panther
+P00054,Toll receptor signaling pathway,34,18,0.43668,1.1274,0.26881,1,Panther
+P04394,Thyrotropin-releasing hormone receptor signaling pathway,30,8,0.43883,1.1224,0.27255,1,Panther
+P04391,Oxytocin receptor mediated signaling pathway,30,8,0.43883,1.1224,0.27255,1,Panther
+P00044,Nicotinic acetylcholine receptor signaling pathway,41,21,0.42409,1.1133,0.27555,1,Panther
+P00045,Notch signaling pathway,28,15,0.43847,1.1192,0.28788,1,Panther
+P00030,Hypoxia response via HIF activation,22,8,0.44331,1.0945,0.32222,1,Panther
+P00055,Transcription regulation by bZIP transcription factor,42,24,0.397,1.0498,0.391,1,Panther
+P00033,Insulin/IGF pathway-protein kinase B signaling cascade,27,7,0.39709,1.0035,0.49546,1,Panther
+P00032,Insulin/IGF pathway-mitogen activated protein kinase kinase/MAP kinase cascade,24,12,0.40227,0.99699,0.51619,1,Panther
+P04398,p53 pathway feedback loops 2,40,20,0.37696,0.99517,0.525,1,Panther
+P04393,Ras Pathway,63,23,0.36142,0.98435,0.54555,1,Panther
+P00023,General transcription regulation,29,15,0.38073,0.97192,0.56426,1,Panther
+P00049,Parkinson disease,65,26,0.35344,0.96815,0.586,1,Panther
+P04377,Beta1 adrenergic receptor signaling pathway,23,6,0.3826,0.95307,0.5998,1,Panther
+P04378,Beta2 adrenergic receptor signaling pathway,23,6,0.3826,0.95307,0.5998,1,Panther

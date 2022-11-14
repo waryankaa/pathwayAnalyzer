@@ -1,0 +1,131 @@
+gs,desc,size,len,es,nes,pvalue,fdr,db
+hsa05012,Parkinson disease,97,70,0.69604,1.9347,<2.2e-16,<2.2e-16,Kegg
+hsa00190,Oxidative phosphorylation,91,64,0.68438,1.8945,<2.2e-16,<2.2e-16,Kegg
+hsa04932,Non-alcoholic fatty liver disease (NAFLD),122,75,0.65609,1.8494,<2.2e-16,<2.2e-16,Kegg
+hsa04260,Cardiac muscle contraction,38,23,0.70556,1.8468,<2.2e-16,<2.2e-16,Kegg
+hsa03010,Ribosome,131,102,0.62888,1.7867,<2.2e-16,<2.2e-16,Kegg
+hsa05016,Huntington disease,139,81,0.62496,1.7672,<2.2e-16,0.00016638,Kegg
+hsa05010,Alzheimer disease,122,66,0.62217,1.7427,<2.2e-16,0.00042783,Kegg
+hsa04714,Thermogenesis,165,90,0.59597,1.6983,<2.2e-16,0.0011231,Kegg
+hsa04723,Retrograde endocannabinoid signaling,80,42,0.61241,1.6776,<2.2e-16,0.0019966,Kegg
+hsa00020,Citrate cycle (TCA cycle),29,20,0.62232,1.5779,<2.2e-16,0.013776,Kegg
+hsa00640,Propanoate metabolism,26,13,0.62386,1.5711,0.0030457,0.014793,Kegg
+hsa04978,Mineral absorption,36,18,0.59161,1.534,0.001005,0.025373,Kegg
+hsa04610,Complement and coagulation cascades,24,6,-0.24305,-1.3113,0.11111,0.047187,Kegg
+hsa00630,Glyoxylate and dicarboxylate metabolism,25,10,0.54983,1.38,0.036327,0.22126,Kegg
+hsa04974,Protein digestion and absorption,36,11,0.5299,1.3723,0.017034,0.22827,Kegg
+hsa03050,Proteasome,41,28,0.52642,1.381,0.008008,0.23459,Kegg
+hsa04971,Gastric acid secretion,36,13,0.52192,1.349,0.023069,0.24468,Kegg
+hsa03320,PPAR signaling pathway,50,15,0.50539,1.3523,0.011,0.2468,Kegg
+hsa04973,Carbohydrate digestion and absorption,20,13,0.56276,1.3567,0.04893,0.24757,Kegg
+hsa05032,Morphine addiction,32,13,0.53214,1.3584,0.036072,0.25706,Kegg
+hsa03040,Spliceosome,127,62,0.47286,1.3321,0.001,0.2916,Kegg
+hsa03020,RNA polymerase,31,11,0.51851,1.3238,0.051205,0.29617,Kegg
+hsa04961,Endocrine and other factor-regulated calcium reabsorption,30,13,0.52064,1.3239,0.049246,0.31018,Kegg
+hsa01200,Carbon metabolism,94,48,0.47169,1.3142,0.003,0.32305,Kegg
+hsa00620,Pyruvate metabolism,32,12,0.50664,1.3057,0.057114,0.34386,Kegg
+hsa00380,Tryptophan metabolism,23,10,0.51527,1.2928,0.099598,0.36053,Kegg
+P00003,Alzheimer disease-amyloid secretase pathway,39,6,-0.2004,-1.0438,<2.2e-16,0.34194,Panther
+P00042,Muscarinic acetylcholine receptor 1 and 3 signaling pathway,30,3,0.24266,0.61995,0.96382,0.97723,Panther
+P00035,Interferon-gamma signaling pathway,25,10,0.24725,0.62792,0.94854,0.99388,Panther
+P05912,Dopamine receptor mediated signaling pathway,34,13,0.50469,1.2938,0.045135,1,Panther
+P00027,Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway,43,13,0.49632,1.3126,0.047,1,Panther
+P00060,Ubiquitin proteasome pathway,42,25,0.47694,1.2669,0.082082,1,Panther
+P04374,5HT2 type receptor mediated signaling pathway,32,9,0.47294,1.2167,0.12525,1,Panther
+P00031,Inflammation mediated by chemokine and cytokine signaling pathway,102,40,0.40144,1.1239,0.162,1,Panther
+P00026,Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway,62,27,0.40875,1.1155,0.226,1,Panther
+P00029,Huntington disease,90,42,0.39349,1.097,0.244,1,Panther
+P00016,Cytoskeletal regulation by Rho GTPase,46,18,0.42024,1.1208,0.255,1,Panther
+P00054,Toll receptor signaling pathway,34,18,0.43668,1.1274,0.26881,1,Panther
+P04394,Thyrotropin-releasing hormone receptor signaling pathway,30,8,0.43883,1.1224,0.27255,1,Panther
+P04391,Oxytocin receptor mediated signaling pathway,30,8,0.43883,1.1224,0.27255,1,Panther
+P00044,Nicotinic acetylcholine receptor signaling pathway,41,21,0.42409,1.1133,0.27555,1,Panther
+P00045,Notch signaling pathway,28,15,0.43847,1.1192,0.28788,1,Panther
+P00030,Hypoxia response via HIF activation,22,8,0.44331,1.0945,0.32222,1,Panther
+P00055,Transcription regulation by bZIP transcription factor,42,24,0.397,1.0498,0.391,1,Panther
+P00033,Insulin/IGF pathway-protein kinase B signaling cascade,27,7,0.39709,1.0035,0.49546,1,Panther
+P00032,Insulin/IGF pathway-mitogen activated protein kinase kinase/MAP kinase cascade,24,12,0.40227,0.99699,0.51619,1,Panther
+P04398,p53 pathway feedback loops 2,40,20,0.37696,0.99517,0.525,1,Panther
+P04393,Ras Pathway,63,23,0.36142,0.98435,0.54555,1,Panther
+P00023,General transcription regulation,29,15,0.38073,0.97192,0.56426,1,Panther
+P00049,Parkinson disease,65,26,0.35344,0.96815,0.586,1,Panther
+P04377,Beta1 adrenergic receptor signaling pathway,23,6,0.3826,0.95307,0.5998,1,Panther
+P04378,Beta2 adrenergic receptor signaling pathway,23,6,0.3826,0.95307,0.5998,1,Panther
+R-HSA-611105,Respiratory electron transport,90,69,0.69581,1.939,<2.2e-16,<2.2e-16,Reactome
+R-HSA-163200,"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.",93,69,0.694,1.9362,<2.2e-16,<2.2e-16,Reactome
+R-HSA-6799198,Complex I biogenesis,49,38,0.72073,1.9229,<2.2e-16,<2.2e-16,Reactome
+R-HSA-156827,L13a-mediated translational silencing of Ceruloplasmin expression,108,83,0.61725,1.7329,<2.2e-16,0.00075499,Reactome
+R-HSA-975956,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),92,71,0.61958,1.7305,<2.2e-16,0.00076789,Reactome
+R-HSA-2408557,Selenocysteine synthesis,90,71,0.62142,1.7343,<2.2e-16,0.00080217,Reactome
+R-HSA-72702,Ribosomal scanning and start codon recognition,57,43,0.64421,1.7466,<2.2e-16,0.00080778,Reactome
+R-HSA-72649,Translation initiation complex formation,57,43,0.64424,1.7451,<2.2e-16,0.00082274,Reactome
+R-HSA-156902,Peptide chain elongation,86,70,0.62447,1.7421,<2.2e-16,0.0008354,Reactome
+R-HSA-72689,Formation of a pool of free 40S subunits,98,78,0.62171,1.7418,<2.2e-16,0.00084625,Reactome
+R-HSA-72706,GTP hydrolysis and joining of the 60S ribosomal subunit,109,84,0.61874,1.7375,<2.2e-16,0.00085565,Reactome
+R-HSA-72613,Eukaryotic Translation Initiation,116,90,0.62029,1.7469,<2.2e-16,0.00088856,Reactome
+R-HSA-72737,Cap-dependent Translation Initiation,116,90,0.62029,1.7469,<2.2e-16,0.00088856,Reactome
+R-HSA-1428517,The citric acid (TCA) cycle and respiratory electron transport,138,89,0.63482,1.7986,<2.2e-16,0.00098729,Reactome
+R-HSA-72662,"Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S",58,44,0.6456,1.7516,<2.2e-16,0.00098729,Reactome
+R-HSA-72695,"Formation of the ternary complex, and subsequently, the 43S complex",50,40,0.65033,1.7527,<2.2e-16,0.0011283,Reactome
+R-HSA-72764,Eukaryotic Translation Termination,90,72,0.63177,1.7653,<2.2e-16,0.0011848,Reactome
+R-HSA-192823,Viral mRNA Translation,86,69,0.63053,1.7562,<2.2e-16,0.0013164,Reactome
+R-HSA-156842,Eukaryotic Translation Elongation,90,71,0.61327,1.7122,<2.2e-16,0.001351,Reactome
+R-HSA-203927,MicroRNA (miRNA) biogenesis,24,12,0.67561,1.6811,<2.2e-16,0.0032581,Reactome
+WP111,Electron Transport Chain (OXPHOS system in mitochondria),69,57,0.72388,1.9813,<2.2e-16,<2.2e-16,Wikipathways
+WP623,Oxidative phosphorylation,36,28,0.72256,1.8858,<2.2e-16,<2.2e-16,Wikipathways
+WP4324,Mitochondrial complex I assembly model OXPHOS system,48,35,0.69455,1.8563,<2.2e-16,0.00032607,Wikipathways
+WP4396,Nonalcoholic fatty liver disease,126,75,0.64456,1.8142,<2.2e-16,0.0004891,Wikipathways
+WP477,Cytoplasmic Ribosomal Proteins,86,71,0.63582,1.7573,<2.2e-16,0.0013695,Wikipathways
+WP558,Complement and Coagulation Cascades,20,8,-0.34977,-1.5121,0.071429,0.14135,Wikipathways
+WP3612,Photodynamic therapy-induced NFE2L2 (NRF2) survival signaling,23,4,-0.31833,-1.3688,<2.2e-16,0.17208,Wikipathways
+WP3998,Prader-Willi and Angelman Syndrome,27,7,-0.24622,-1.2193,<2.2e-16,0.23968,Wikipathways
+WP2643,Nanoparticle-mediated activation of receptor signaling,26,5,-0.24142,-1.2578,0.125,0.25607,Wikipathways
+WP4329,miRNAs involvement in the immune response in sepsis,24,24,-0.23759,-1.0986,0.33333,0.37858,Wikipathways
+WP3617,Photodynamic therapy-induced NF-kB survival signaling,21,5,-0.21714,-0.99534,0.5,0.56541,Wikipathways
+WP262,EBV LMP1 signaling,20,20,-0.21749,-0.94853,0.57143,0.56716,Wikipathways
+WP43,Oxidation by Cytochrome P450,24,14,0.5438,1.3641,0.041331,0.83692,Wikipathways
+WP3942,PPAR signaling pathway,46,14,0.51363,1.3661,0.018,0.95293,Wikipathways
+WP4726,Sphingolipid Metabolism (integrated pathway),21,2,0.18587,0.45391,0.98985,0.99758,Wikipathways
+WP411,mRNA Processing,122,50,0.42993,1.212,0.032,1,Wikipathways
+WP536,Calcium Regulation in the Cardiac Cell,76,30,0.46014,1.2553,0.037,1,Wikipathways
+WP3925,Amino Acid metabolism,71,35,0.45624,1.2535,0.035,1,Wikipathways
+WP183,Proteasome Degradation,59,37,0.45203,1.2267,0.068,1,Wikipathways
+WP2359,Parkin-Ubiquitin Proteasomal System pathway,55,23,0.46082,1.2323,0.068,1,Wikipathways
+WP107,Translation Factors,52,26,0.47914,1.2926,0.035,1,Wikipathways
+WP1403,AMP-activated Protein Kinase (AMPK) Signaling,50,16,0.46154,1.243,0.073,1,Wikipathways
+WP4290,Metabolic reprogramming in colon cancer,40,20,0.49379,1.3083,0.034102,1,Wikipathways
+WP3940,One carbon metabolism and related pathways,37,17,0.46175,1.2083,0.12939,1,Wikipathways
+WP4313,Ferroptosis,35,15,0.45938,1.1838,0.15477,1,Wikipathways
+WP534,Glycolysis and Gluconeogenesis,32,17,0.51235,1.3113,0.055055,1,Wikipathways
+WP2267,Synaptic Vesicle Pathway,30,11,0.51316,1.3171,0.061122,1,Wikipathways
+WP4564,Neural Crest Cell Migration during Development,25,9,0.48855,1.2303,0.13595,1,Wikipathways
+WP465,Tryptophan metabolism,23,9,0.5187,1.2774,0.11813,1,Wikipathways
+WP357,Fatty Acid Biosynthesis,21,11,0.53418,1.2905,0.091826,1,Wikipathways
+WP170,Nuclear Receptors,21,11,0.51174,1.2695,0.094512,1,Wikipathways
+WP3937,Microglia Pathogen Phagocytosis Pathway,20,8,0.53827,1.3019,0.091919,1,Wikipathways
+WP3617,Photodynamic therapy-induced NF-kB survival signaling,21,5,-0.21714,-1.0563,0.38462,0.31217,Wikipathways Cancer
+WP4357,NRF2-ARE regulation,21,6,0.21951,0.54304,0.97665,0.99106,Wikipathways Cancer
+WP2526,PDGF Pathway,36,18,0.23565,0.61224,0.96289,0.99833,Wikipathways Cancer
+WP4290,Metabolic reprogramming in colon cancer,40,20,0.49379,1.3053,0.041041,1,Wikipathways Cancer
+WP534,Glycolysis and Gluconeogenesis,32,17,0.51235,1.3244,0.050201,1,Wikipathways Cancer
+WP1471,Target Of Rapamycin (TOR) Signaling,31,11,0.46507,1.1882,0.18154,1,Wikipathways Cancer
+WP531,DNA Mismatch Repair,21,13,0.45147,1.1114,0.31767,1,Wikipathways Cancer
+WP4155,Endometrial cancer,55,28,0.38591,1.0498,0.379,1,Wikipathways Cancer
+WP143,Fatty Acid Beta Oxidation,29,9,0.41545,1.0588,0.39275,1,Wikipathways Cancer
+WP585,Interferon type I signaling pathways,46,20,0.39333,1.0498,0.39479,1,Wikipathways Cancer
+WP3929,Chemokine signaling pathway,90,28,0.37372,1.036,0.402,1,Wikipathways Cancer
+WP2446,Retinoblastoma Gene in Cancer,87,54,0.36902,1.029,0.425,1,Wikipathways Cancer
+WP61,Notch Signaling Pathway Netpath,49,31,0.38601,1.028,0.43544,1,Wikipathways Cancer
+WP2516,ATM Signaling Pathway,38,6,0.39146,1.0275,0.44634,1,Wikipathways Cancer
+WP707,DNA Damage Response,64,28,0.36913,1.0035,0.487,1,Wikipathways Cancer
+WP241,One Carbon Metabolism,25,11,0.39328,0.98647,0.54381,1,Wikipathways Cancer
+WP364,IL-6 signaling pathway,36,26,0.37112,0.97165,0.57257,1,Wikipathways Cancer
+WP195,IL-1 signaling pathway,47,21,0.36315,0.96879,0.577,1,Wikipathways Cancer
+WP4216,Chromosomal and microsatellite instability in colorectal cancer,65,31,0.35268,0.9681,0.584,1,Wikipathways Cancer
+WP4249,Hedgehog Signaling Pathway,25,8,0.37704,0.95389,0.60743,1,Wikipathways Cancer
+WP4016,DNA IR-damage and cellular response via ATR,76,45,0.35004,0.95823,0.615,1,Wikipathways Cancer
+WP4204,Tumor suppressor activity of SMARCB1,24,17,0.37121,0.92584,0.6381,1,Wikipathways Cancer
+WP619,Type II interferon signaling (IFNG),25,12,0.36855,0.92064,0.66097,1,Wikipathways Cancer
+WP268,Notch Signaling,35,19,0.35469,0.92207,0.66432,1,Wikipathways Cancer
+WP4223,Ras Signaling,115,47,0.33551,0.94899,0.669,1,Wikipathways Cancer
+WP3878,ATM Signaling Network in Development and Disease,42,16,0.35055,0.91901,0.68368,1,Wikipathways Cancer
